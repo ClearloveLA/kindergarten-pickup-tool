@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Runtime data
+pickup_data.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
